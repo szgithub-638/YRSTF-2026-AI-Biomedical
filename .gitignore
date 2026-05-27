@@ -1,2 +1,3 @@
 ai_env/
 model/melanoma_model.h5
+data/
